@@ -1,0 +1,11 @@
+/* Okabe-Ito (Wong) colorblind-safe palette as CSS custom properties. */
+:root {
+  --okabe-ito-orange: #E69F00;
+  --okabe-ito-sky-blue: #56B4E9;
+  --okabe-ito-bluish-green: #009E73;
+  --okabe-ito-yellow: #F0E442;
+  --okabe-ito-blue: #0072B2;
+  --okabe-ito-vermillion: #D55E00;
+  --okabe-ito-reddish-purple: #CC79A7;
+  --okabe-ito-black: #000000;
+}

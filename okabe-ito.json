@@ -1,0 +1,130 @@
+[
+  {
+    "name": "orange",
+    "hex": "#E69F00",
+    "rgb": [
+      230,
+      159,
+      0
+    ],
+    "hsl": [
+      41,
+      100,
+      45
+    ],
+    "contrast_on_white": 2.25,
+    "contrast_on_black": 9.32
+  },
+  {
+    "name": "sky_blue",
+    "hex": "#56B4E9",
+    "rgb": [
+      86,
+      180,
+      233
+    ],
+    "hsl": [
+      202,
+      77,
+      63
+    ],
+    "contrast_on_white": 2.31,
+    "contrast_on_black": 9.1
+  },
+  {
+    "name": "bluish_green",
+    "hex": "#009E73",
+    "rgb": [
+      0,
+      158,
+      115
+    ],
+    "hsl": [
+      164,
+      100,
+      31
+    ],
+    "contrast_on_white": 3.42,
+    "contrast_on_black": 6.14
+  },
+  {
+    "name": "yellow",
+    "hex": "#F0E442",
+    "rgb": [
+      240,
+      228,
+      66
+    ],
+    "hsl": [
+      56,
+      85,
+      60
+    ],
+    "contrast_on_white": 1.32,
+    "contrast_on_black": 15.88
+  },
+  {
+    "name": "blue",
+    "hex": "#0072B2",
+    "rgb": [
+      0,
+      114,
+      178
+    ],
+    "hsl": [
+      202,
+      100,
+      35
+    ],
+    "contrast_on_white": 5.19,
+    "contrast_on_black": 4.05
+  },
+  {
+    "name": "vermillion",
+    "hex": "#D55E00",
+    "rgb": [
+      213,
+      94,
+      0
+    ],
+    "hsl": [
+      26,
+      100,
+      42
+    ],
+    "contrast_on_white": 3.87,
+    "contrast_on_black": 5.43
+  },
+  {
+    "name": "reddish_purple",
+    "hex": "#CC79A7",
+    "rgb": [
+      204,
+      121,
+      167
+    ],
+    "hsl": [
+      327,
+      45,
+      64
+    ],
+    "contrast_on_white": 3.06,
+    "contrast_on_black": 6.86
+  },
+  {
+    "name": "black",
+    "hex": "#000000",
+    "rgb": [
+      0,
+      0,
+      0
+    ],
+    "hsl": [
+      0,
+      0,
+      0
+    ],
+    "contrast_on_white": 21.0,
+    "contrast_on_black": 1.0
+  }
+]
