@@ -36,7 +36,7 @@ Use yellow (`#F0E442`) last: at 1.32:1 against white it disappears in thin lines
 
 ## Use it
 
-**Python (matplotlib, seaborn)**: [`python/okabe_ito.py`](python/okabe_ito.py)
+**Python (matplotlib, seaborn)**: [`python/okabe_ito.py`](okabe_ito.py)
 
 ```python
 okabe_ito = ["#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7", "#000000"]
@@ -48,7 +48,7 @@ import seaborn as sns
 sns.set_palette(okabe_ito)
 ```
 
-**R (base R and ggplot2)**: [`r/okabe_ito.R`](r/okabe_ito.R)
+**R (base R and ggplot2)**: [`r/okabe_ito.R`](okabe_ito.R)
 
 ```r
 okabe_ito <- c("#E69F00", "#0072B2", "#009E73", "#D55E00", "#56B4E9", "#CC79A7", "#000000", "#F0E442")
@@ -60,9 +60,9 @@ ggplot(df, aes(x, y, colour = group)) +
 
 R 4.0+ also ships the palette as `palette.colors(palette = "Okabe-Ito")`, but that version starts with black and adds gray as a ninth color, so the first group is drawn in black.
 
-**CSS**: [`css/okabe-ito.css`](css/okabe-ito.css) defines `--okabe-ito-orange` and the other seven colors as custom properties.
+**CSS**: [`css/okabe-ito.css`](okabe-ito.css) defines `--okabe-ito-orange` and the other seven colors as custom properties.
 
-**MATLAB**: [`matlab/okabe_ito.m`](matlab/okabe_ito.m)
+**MATLAB**: [`matlab/okabe_ito.m`](okabe_ito.m)
 
 ```matlab
 colororder(okabe_ito(4))
